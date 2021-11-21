@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactrezoume/static/css/main.11466900.chunk.css",
+    "main.js": "/reactrezoume/static/js/main.7485732c.chunk.js",
+    "main.js.map": "/reactrezoume/static/js/main.7485732c.chunk.js.map",
+    "runtime-main.js": "/reactrezoume/static/js/runtime-main.f7e3d88c.js",
+    "runtime-main.js.map": "/reactrezoume/static/js/runtime-main.f7e3d88c.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/reactrezoume/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.9abb43d0.chunk.js": "/reactrezoume/static/js/2.9abb43d0.chunk.js",
+    "static/js/2.9abb43d0.chunk.js.map": "/reactrezoume/static/js/2.9abb43d0.chunk.js.map",
+    "static/js/3.3df2b01f.chunk.js": "/reactrezoume/static/js/3.3df2b01f.chunk.js",
+    "static/js/3.3df2b01f.chunk.js.map": "/reactrezoume/static/js/3.3df2b01f.chunk.js.map",
+    "index.html": "/reactrezoume/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/reactrezoume/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.11466900.chunk.css.map": "/reactrezoume/static/css/main.11466900.chunk.css.map",
+    "static/js/2.9abb43d0.chunk.js.LICENSE.txt": "/reactrezoume/static/js/2.9abb43d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e3d88c.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.9abb43d0.chunk.js",
+    "static/css/main.11466900.chunk.css",
+    "static/js/main.7485732c.chunk.js"
+  ]
+}
